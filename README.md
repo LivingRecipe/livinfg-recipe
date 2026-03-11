@@ -1,2 +1,2 @@
-# livinfg-recipe
+# living-recipe
 MVP einer kollaborativen Rezept-App.
